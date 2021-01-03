@@ -69,6 +69,7 @@
 - git push origin master 
 - git checkout dev 
 - git rebase master
+- git push -f origin dev 
 
 
 # Make a pull reguest
